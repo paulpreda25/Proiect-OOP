@@ -1,1 +1,2 @@
-# Proiect-OOP Se ruleaza utilizand Visual Studio .
+# Proiect-OOP Joc Grafic C# -"Nu te supara,frate!"
+Se ruleaza utilizand Visual Studio .
